@@ -64,5 +64,5 @@
 - **Data Integrity Issue:** Employee ID allows duplicate empty values
 
 ## Defect Identified
-- **[TC-EM-07:](./bug-reports/employee-id-duplicate-validation.md)** Employee ID field inconsistently validates duplicate empty values at Min boundary
+- **TC-EM-07:** Employee ID field inconsistently validates duplicate empty values at Min boundary **<br>[BUG REPORT]((bug-reports/employee-id-duplicate-validation.md))**
 - **Impact:** Data integrity compromise allowing multiple null identifiers
