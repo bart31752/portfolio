@@ -7,7 +7,7 @@ This document should act as a non-exhaustive **VISUAL** reference in cases where
 - sample observations
 - logic
  
-**[View the Document on Google Drive]([https://drive.google.com/file/d/1XljRrPtq-v1lmuWZhM00IN7jbEfcdzFk/view?usp=drive_link])**
+**[View the Document on Google Drive](https://drive.google.com/file/d/1XljRrPtq-v1lmuWZhM00IN7jbEfcdzFk/view?usp=drive_link)**
 
 ---
 
