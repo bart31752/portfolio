@@ -31,7 +31,7 @@ Professional API testing suite for a hotel booking system.
 
 ## 📁 Files
 - `postman-collection.json` - Import into Postman to run tests
-- `evidence/` - Collection structure and test results
+- `[evidence.md](evidence.md)` - Collection structure and test results
 
 ## 🚀 Quick Start
 1. Import `postman-collection.json` into Postman
